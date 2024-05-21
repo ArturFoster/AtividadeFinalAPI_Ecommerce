@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Eclipse IDE ###
-\src\main\resources
+\src\main\resources\application
